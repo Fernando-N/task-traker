@@ -27,5 +27,3 @@ npm run server
 ```
 npm run build
 ```
-
-[Link pra o projeto online](https://fernando-n.github.io/task-traker/)
